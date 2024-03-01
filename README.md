@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/dhvgadhiya99/dhvgadhiya99/blob/main/Dhruv_Gadhiya.png)
+![MasterHead](https://github.com/dhvgadhiya99/dhvgadhiya99/blob/main/Cover_Ottawa.png)
 <h1 align="left">Hi 👋, I'm Dhruv Gadhiya</h1>
 <h3 align="left">Passionate Software Developer with expertise in JavaScript, RESTful APIs, and Database Design</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/dhvgadhiya99/dhvgadhiya99/blob/main/Timeline.png">
